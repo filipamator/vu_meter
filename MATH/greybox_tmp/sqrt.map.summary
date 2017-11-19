@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Oct 04 20:34:22 2017
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : sqrt
+Top-level Entity Name : sqrt
+Family : Cyclone IV E
+Total logic elements : 362
+    Total combinational functions : 362
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 68
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

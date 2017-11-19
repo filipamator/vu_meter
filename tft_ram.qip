@@ -1,0 +1,7 @@
+set_global_assignment -name IP_TOOL_NAME "RAM: 2-PORT"
+set_global_assignment -name IP_TOOL_VERSION "16.1"
+set_global_assignment -name IP_GENERATED_DEVICE_FAMILY "{Cyclone IV E}"
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "tft_ram.vhd"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "tft_ram_inst.vhd"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "tft_ram.cmp"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "tft_ram_syn.v"]

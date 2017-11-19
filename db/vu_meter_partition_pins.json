@@ -1,0 +1,213 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "AUD_DACDAT",
+					"strict" : false
+				},
+				{
+					"name" : "I2C_SCLK",
+					"strict" : false
+				},
+				{
+					"name" : "TFT_SCK",
+					"strict" : false
+				},
+				{
+					"name" : "TFT_SDI",
+					"strict" : false
+				},
+				{
+					"name" : "TFT_DC",
+					"strict" : false
+				},
+				{
+					"name" : "TFT_RESET",
+					"strict" : false
+				},
+				{
+					"name" : "TFT_CS",
+					"strict" : false
+				},
+				{
+					"name" : "UART_TXD",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[6]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[7]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[8]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[9]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[10]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[11]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[12]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[13]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[14]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[15]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[16]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[17]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[18]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[19]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[20]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[21]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[22]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[23]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[24]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[25]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[26]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[27]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[28]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[29]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[30]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA[31]",
+					"strict" : false
+				},
+				{
+					"name" : "DEBUG_DATA_EN",
+					"strict" : false
+				},
+				{
+					"name" : "AUD_ADCDAT",
+					"strict" : false
+				},
+				{
+					"name" : "AUD_BCLK",
+					"strict" : false
+				},
+				{
+					"name" : "AUD_ADCLRCK",
+					"strict" : false
+				},
+				{
+					"name" : "AUD_DACLRCK",
+					"strict" : false
+				},
+				{
+					"name" : "I2C_SDAT",
+					"strict" : false
+				},
+				{
+					"name" : "CLOCK_50",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[1]",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

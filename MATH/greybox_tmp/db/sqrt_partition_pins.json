@@ -1,0 +1,281 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "q[0]",
+					"strict" : false
+				},
+				{
+					"name" : "q[1]",
+					"strict" : false
+				},
+				{
+					"name" : "q[2]",
+					"strict" : false
+				},
+				{
+					"name" : "q[3]",
+					"strict" : false
+				},
+				{
+					"name" : "q[4]",
+					"strict" : false
+				},
+				{
+					"name" : "q[5]",
+					"strict" : false
+				},
+				{
+					"name" : "q[6]",
+					"strict" : false
+				},
+				{
+					"name" : "q[7]",
+					"strict" : false
+				},
+				{
+					"name" : "q[8]",
+					"strict" : false
+				},
+				{
+					"name" : "q[9]",
+					"strict" : false
+				},
+				{
+					"name" : "q[10]",
+					"strict" : false
+				},
+				{
+					"name" : "q[11]",
+					"strict" : false
+				},
+				{
+					"name" : "q[12]",
+					"strict" : false
+				},
+				{
+					"name" : "q[13]",
+					"strict" : false
+				},
+				{
+					"name" : "q[14]",
+					"strict" : false
+				},
+				{
+					"name" : "q[15]",
+					"strict" : false
+				},
+				{
+					"name" : "q[16]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[0]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[1]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[2]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[3]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[4]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[5]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[6]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[7]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[8]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[9]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[10]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[11]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[12]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[13]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[14]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[15]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[16]",
+					"strict" : false
+				},
+				{
+					"name" : "remainder[17]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[18]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[27]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[26]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[31]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[30]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[32]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[29]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[28]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[25]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[24]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[23]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[22]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[21]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[20]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[19]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[17]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[16]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[15]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[14]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[13]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[12]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[11]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[10]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[9]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[8]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[7]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[6]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[5]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[4]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[3]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[2]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[1]",
+					"strict" : false
+				},
+				{
+					"name" : "radical[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

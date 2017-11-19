@@ -1,0 +1,313 @@
+fft.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/fft.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity fft
+-- Compiling architecture Behavioral of fft
+
+} {} {}} MATH/fptoi32.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/MATH/fptoi32.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fptoi32_altbarrel_shift_20g
+-- Compiling architecture RTL of fptoi32_altbarrel_shift_20g
+-- Compiling entity fptoi32_altfp_convert_34o
+-- Compiling architecture RTL of fptoi32_altfp_convert_34o
+-- Compiling entity fptoi32
+-- Compiling architecture RTL of fptoi32
+
+} {} {}} uart_dump.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/uart_dump.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity uart_dump
+-- Compiling architecture RTL of uart_dump
+
+} {} {}} MATH/fp2int.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/MATH/fp2int.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fp2int_altbarrel_shift_40g
+-- Compiling architecture RTL of fp2int_altbarrel_shift_40g
+-- Compiling entity fp2int_altfp_convert_p1n
+-- Compiling architecture RTL of fp2int_altfp_convert_p1n
+-- Compiling entity fp2int
+-- Compiling architecture RTL of fp2int
+
+} {} {}} debounce.vhd {1 {vcom -work work -2008 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/debounce.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity debounce
+-- Compiling architecture logic of debounce
+
+} {} {}} windowfunction.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/windowfunction.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity windowfunction
+-- Compiling architecture rtl of windowfunction
+
+} {} {}} fake_dac.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/fake_dac.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity fake_dac
+-- Compiling architecture Behavioral of fake_dac
+
+} {} {}} dataacq.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/dataacq.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity dataacq
+-- Compiling architecture Behavioral of dataacq
+
+} {} {}} sample_avg.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/sample_avg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity sample_avg
+-- Compiling architecture Behavioral of sample_avg
+-- Compiling entity average2
+-- Compiling architecture Behavioral of average2
+
+} {} {}} MATH/fp_mult.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/MATH/fp_mult.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fp_mult_altfp_mult_fkn
+-- Compiling architecture RTL of fp_mult_altfp_mult_fkn
+-- Compiling entity fp_mult
+-- Compiling architecture RTL of fp_mult
+
+} {} {}} MATH/i32tofp.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/MATH/i32tofp.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity i32tofp_altbarrel_shift_tvf
+-- Compiling architecture RTL of i32tofp_altbarrel_shift_tvf
+-- Compiling entity i32tofp_altpriority_encoder_3e8
+-- Compiling architecture RTL of i32tofp_altpriority_encoder_3e8
+-- Compiling entity i32tofp_altpriority_encoder_6e8
+-- Compiling architecture RTL of i32tofp_altpriority_encoder_6e8
+-- Compiling entity i32tofp_altpriority_encoder_be8
+-- Compiling architecture RTL of i32tofp_altpriority_encoder_be8
+-- Compiling entity i32tofp_altpriority_encoder_rf8
+-- Compiling architecture RTL of i32tofp_altpriority_encoder_rf8
+-- Compiling entity i32tofp_altpriority_encoder_3v7
+-- Compiling architecture RTL of i32tofp_altpriority_encoder_3v7
+-- Compiling entity i32tofp_altpriority_encoder_6v7
+-- Compiling architecture RTL of i32tofp_altpriority_encoder_6v7
+-- Compiling entity i32tofp_altpriority_encoder_bv7
+-- Compiling architecture RTL of i32tofp_altpriority_encoder_bv7
+-- Compiling entity i32tofp_altpriority_encoder_r08
+-- Compiling architecture RTL of i32tofp_altpriority_encoder_r08
+-- Compiling entity i32tofp_altpriority_encoder_qb6
+-- Compiling architecture RTL of i32tofp_altpriority_encoder_qb6
+-- Compiling entity i32tofp_altfp_convert_34o
+-- Compiling architecture RTL of i32tofp_altfp_convert_34o
+-- Compiling entity i32tofp
+-- Compiling architecture RTL of i32tofp
+
+} {} {}} MATH/fplog.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/MATH/fplog.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fplog_altbarrel_shift_itd
+-- Compiling architecture RTL of fplog_altbarrel_shift_itd
+-- Compiling entity fplog_altbarrel_shift_qab
+-- Compiling architecture RTL of fplog_altbarrel_shift_qab
+-- Compiling entity fplog_altbarrel_shift_51e
+-- Compiling architecture RTL of fplog_altbarrel_shift_51e
+-- Compiling entity fplog_altfp_log_and_or_h9b
+-- Compiling architecture RTL of fplog_altfp_log_and_or_h9b
+-- Compiling entity fplog_altfp_log_and_or_v6b
+-- Compiling architecture RTL of fplog_altfp_log_and_or_v6b
+-- Compiling entity fplog_altfp_log_and_or_c8b
+-- Compiling architecture RTL of fplog_altfp_log_and_or_c8b
+-- Compiling entity fplog_altfp_log_csa_s0e
+-- Compiling architecture RTL of fplog_altfp_log_csa_s0e
+-- Compiling entity fplog_altfp_log_csa_k0e
+-- Compiling architecture RTL of fplog_altfp_log_csa_k0e
+-- Compiling entity fplog_altfp_log_csa_0nc
+-- Compiling architecture RTL of fplog_altfp_log_csa_0nc
+-- Compiling entity fplog_altfp_log_csa_d4b
+-- Compiling architecture RTL of fplog_altfp_log_csa_d4b
+-- Compiling entity fplog_altfp_log_csa_umc
+-- Compiling architecture RTL of fplog_altfp_log_csa_umc
+-- Compiling entity fplog_altfp_log_csa_nlf
+-- Compiling architecture RTL of fplog_altfp_log_csa_nlf
+-- Compiling entity fplog_altfp_log_csa_8kf
+-- Compiling architecture RTL of fplog_altfp_log_csa_8kf
+-- Compiling entity fplog_altfp_log_csa_r0e
+-- Compiling architecture RTL of fplog_altfp_log_csa_r0e
+-- Compiling entity fplog_altfp_log_csa_o0e
+-- Compiling architecture RTL of fplog_altfp_log_csa_o0e
+-- Compiling entity fplog_altfp_log_csa_l1e
+-- Compiling architecture RTL of fplog_altfp_log_csa_l1e
+-- Compiling entity fplog_altfp_log_csa_s1e
+-- Compiling architecture RTL of fplog_altfp_log_csa_s1e
+-- Compiling entity fplog_altfp_log_csa_p1e
+-- Compiling architecture RTL of fplog_altfp_log_csa_p1e
+-- Loading package LPM_COMPONENTS
+-- Compiling entity fplog_range_reduction_uqd
+-- Compiling architecture RTL of fplog_range_reduction_uqd
+-- Compiling entity fplog_altpriority_encoder_3v7
+-- Compiling architecture RTL of fplog_altpriority_encoder_3v7
+-- Compiling entity fplog_altpriority_encoder_3e8
+-- Compiling architecture RTL of fplog_altpriority_encoder_3e8
+-- Compiling entity fplog_altpriority_encoder_6v7
+-- Compiling architecture RTL of fplog_altpriority_encoder_6v7
+-- Compiling entity fplog_altpriority_encoder_6e8
+-- Compiling architecture RTL of fplog_altpriority_encoder_6e8
+-- Compiling entity fplog_altpriority_encoder_bv7
+-- Compiling architecture RTL of fplog_altpriority_encoder_bv7
+-- Compiling entity fplog_altpriority_encoder_be8
+-- Compiling architecture RTL of fplog_altpriority_encoder_be8
+-- Compiling entity fplog_altpriority_encoder_r08
+-- Compiling architecture RTL of fplog_altpriority_encoder_r08
+-- Compiling entity fplog_altpriority_encoder_rf8
+-- Compiling architecture RTL of fplog_altpriority_encoder_rf8
+-- Compiling entity fplog_altpriority_encoder_tv8
+-- Compiling architecture RTL of fplog_altpriority_encoder_tv8
+-- Compiling entity fplog_altpriority_encoder_te9
+-- Compiling architecture RTL of fplog_altpriority_encoder_te9
+-- Compiling entity fplog_altpriority_encoder_uja
+-- Compiling architecture RTL of fplog_altpriority_encoder_uja
+-- Compiling entity fplog_altpriority_encoder_q08
+-- Compiling architecture RTL of fplog_altpriority_encoder_q08
+-- Compiling entity fplog_altfp_log_n6b
+-- Compiling architecture RTL of fplog_altfp_log_n6b
+-- Compiling entity fplog
+-- Compiling architecture RTL of fplog
+
+} {} {}} windowfunction_tb.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/windowfunction_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Compiling entity windowfunction_tb
+-- Compiling architecture Behavioral of windowfunction_tb
+** Warning: D:/FPGA/DE2_sound/vu_meter/windowfunction_tb.vhd(90): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+} {} {}} gen48khz.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/gen48khz.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity gen48khz
+-- Compiling architecture rtl of gen48khz
+
+} {} {}} vu_meter_tb.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/vu_meter_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Compiling entity vu_meter_tb
+-- Compiling architecture Behavioral of vu_meter_tb
+** Warning: D:/FPGA/DE2_sound/vu_meter/vu_meter_tb.vhd(113): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+} {} {}} MATH/int2fp.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/MATH/int2fp.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity int2fp_altbarrel_shift_uvf
+-- Compiling architecture RTL of int2fp_altbarrel_shift_uvf
+-- Compiling entity int2fp_altpriority_encoder_3v7
+-- Compiling architecture RTL of int2fp_altpriority_encoder_3v7
+-- Compiling entity int2fp_altpriority_encoder_3e8
+-- Compiling architecture RTL of int2fp_altpriority_encoder_3e8
+-- Compiling entity int2fp_altpriority_encoder_6v7
+-- Compiling architecture RTL of int2fp_altpriority_encoder_6v7
+-- Compiling entity int2fp_altpriority_encoder_6e8
+-- Compiling architecture RTL of int2fp_altpriority_encoder_6e8
+-- Compiling entity int2fp_altpriority_encoder_bv7
+-- Compiling architecture RTL of int2fp_altpriority_encoder_bv7
+-- Compiling entity int2fp_altpriority_encoder_be8
+-- Compiling architecture RTL of int2fp_altpriority_encoder_be8
+-- Compiling entity int2fp_altpriority_encoder_rb6
+-- Compiling architecture RTL of int2fp_altpriority_encoder_rb6
+-- Compiling entity int2fp_altfp_convert_p1n
+-- Compiling architecture RTL of int2fp_altfp_convert_p1n
+-- Compiling entity int2fp
+-- Compiling architecture RTL of int2fp
+
+} {} {}} hannwindow.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/hannwindow.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity hannwindow
+-- Compiling architecture Behavioral of hannwindow
+
+} {} {}} powerlog.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/powerlog.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity powerlog
+-- Compiling architecture rtl of powerlog
+
+} {} {}} vu_meter.vhd {0 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/vu_meter.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity vu_meter
+-- Compiling architecture rtl of vu_meter
+** Error: D:/FPGA/DE2_sound/vu_meter/vu_meter.vhd(491): (vcom-1436) Actual expression (infix expression) of formal "i_data" is not globally static.
+** Error: D:/FPGA/DE2_sound/vu_meter/vu_meter.vhd(524): VHDL Compiler exiting
+
+} {11.0 13.0} {}} UART_TX.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/UART_TX.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity UART_TX
+-- Compiling architecture RTL of UART_TX
+
+} {} {}}

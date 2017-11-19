@@ -1,0 +1,109 @@
+Flow report for sqrt
+Wed Oct 04 20:34:23 2017
+Quartus Prime Version 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Flow Summary
+  3. Flow Settings
+  4. Flow Non-Default Global Settings
+  5. Flow Elapsed Time
+  6. Flow OS Summary
+  7. Flow Log
+  8. Flow Messages
+  9. Flow Suppressed Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2016  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++----------------------------------------------------------------------------------+
+; Flow Summary                                                                     ;
++------------------------------------+---------------------------------------------+
+; Flow Status                        ; Successful - Wed Oct 04 20:34:23 2017       ;
+; Quartus Prime Version              ; 16.1.0 Build 196 10/24/2016 SJ Lite Edition ;
+; Revision Name                      ; sqrt                                        ;
+; Top-level Entity Name              ; sqrt                                        ;
+; Family                             ; Cyclone IV E                                ;
+; Total logic elements               ; 362                                         ;
+;     Total combinational functions  ; 362                                         ;
+;     Dedicated logic registers      ; 0                                           ;
+; Total registers                    ; 0                                           ;
+; Total pins                         ; 68                                          ;
+; Total virtual pins                 ; 0                                           ;
+; Total memory bits                  ; 0                                           ;
+; Embedded Multiplier 9-bit elements ; 0                                           ;
+; Total PLLs                         ; 0                                           ;
++------------------------------------+---------------------------------------------+
+
+
++-----------------------------------------+
+; Flow Settings                           ;
++-------------------+---------------------+
+; Option            ; Setting             ;
++-------------------+---------------------+
+; Start date & time ; 10/04/2017 20:34:12 ;
+; Main task         ; Compilation         ;
+; Revision Name     ; sqrt                ;
++-------------------+---------------------+
+
+
++-------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                ;
++-----------------------+------------------------------+---------------+-------------+------------+
+; Assignment Name       ; Value                        ; Default Value ; Entity Name ; Section Id ;
++-----------------------+------------------------------+---------------+-------------+------------+
+; COMPILER_SIGNATURE_ID ; 113780617489.150714565209424 ; --            ; --          ; --         ;
++-----------------------+------------------------------+---------------+-------------+------------+
+
+
++--------------------------------------------------------------------------------------------------------------------------+
+; Flow Elapsed Time                                                                                                        ;
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Analysis & Synthesis ; 00:00:10     ; 1.0                     ; 671 MB              ; 00:00:19                           ;
+; EDA Netlist Writer   ; 00:00:01     ; 1.0                     ; 494 MB              ; 00:00:01                           ;
+; Total                ; 00:00:11     ; --                      ; --                  ; 00:00:20                           ;
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+
+
++-----------------------------------------------------------------------------------+
+; Flow OS Summary                                                                   ;
++----------------------+------------------+-----------+------------+----------------+
+; Module Name          ; Machine Hostname ; OS Name   ; OS Version ; Processor type ;
++----------------------+------------------+-----------+------------+----------------+
+; Analysis & Synthesis ; margot           ; Windows 7 ; 6.1        ; x86_64         ;
+; EDA Netlist Writer   ; margot           ; Windows 7 ; 6.1        ; x86_64         ;
++----------------------+------------------+-----------+------------+----------------+
+
+
+------------
+; Flow Log ;
+------------
+quartus_map sqrt --source=sqrt.vhd --ini=greybox_disable_cut_checks=on --family="Cyclone IV E"
+quartus_eda sqrt --greybox_verilog=on --netlist=D:/FPGA/DE2_sound/DE2_Audio_FFT/MATH/sqrt_syn.v
+
+
+

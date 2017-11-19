@@ -1,0 +1,51 @@
+EDA Netlist Writer report for sqrt
+Wed Oct 04 20:34:23 2017
+Quartus Prime Version 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. EDA Netlist Writer Summary
+  3. EDA Netlist Writer Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2016  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------+
+; EDA Netlist Writer Summary                                        ;
++---------------------------+---------------------------------------+
+; EDA Netlist Writer Status ; Successful - Wed Oct 04 20:34:23 2017 ;
+; Revision Name             ; sqrt                                  ;
+; Top-level Entity Name     ; sqrt                                  ;
+; Family                    ; Cyclone IV E                          ;
++---------------------------+---------------------------------------+
+
+
++-----------------------------+
+; EDA Netlist Writer Messages ;
++-----------------------------+
+Can't read Quartus Prime message file D:/FPGA/DE2_sound/DE2_Audio_FFT/MATH/greybox_tmp/db/sqrt.eda.qmsg.
+Make sure the file exists and is up to date, and you have permission to read and write the file.
+
+
