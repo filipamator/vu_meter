@@ -1,14 +1,4 @@
-fft.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/fft.vhd
-Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package MATH_REAL
--- Loading package NUMERIC_STD
--- Compiling entity fft
--- Compiling architecture Behavioral of fft
-
-} {} {}} MATH/fptoi32.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/MATH/fptoi32.vhd
+MATH/fptoi32.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/MATH/fptoi32.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -28,6 +18,46 @@ Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  
 -- Loading package NUMERIC_STD
 -- Compiling entity uart_dump
 -- Compiling architecture RTL of uart_dump
+
+} {} {}} plotspec.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/plotspec.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity plotspec
+-- Compiling architecture Behavioral of plotspec
+
+} {} {}} dft_top.v {1 {vlog -work work -stats=none D:/FPGA/DE2_sound/vu_meter/dft_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dft_testbench
+-- Compiling module dft_top
+-- Compiling module rc68760
+-- Compiling module perm68758
+-- Compiling module memArray1024_68758
+-- Compiling module nexxReg
+-- Compiling module memMod
+-- Compiling module memMod_dist
+-- Compiling module switch
+-- Compiling module shiftRegFIFO
+-- Compiling module ICompose_71037
+-- Compiling module statementList71035
+-- Compiling module DirSum_70950
+-- Compiling module D2_69922
+-- Compiling module D1_70948
+-- Compiling module codeBlock68762
+-- Compiling module codeBlock70952
+-- Compiling module rc71033
+-- Compiling module perm71031
+-- Compiling module memArray1024_71031
+-- Compiling module multfix
+-- Compiling module addfxp
+-- Compiling module subfxp
+
+Top level modules:
+	dft_testbench
+	memMod_dist
 
 } {} {}} MATH/fp2int.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/MATH/fp2int.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
@@ -288,7 +318,7 @@ Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  
 -- Compiling entity powerlog
 -- Compiling architecture rtl of powerlog
 
-} {} {}} vu_meter.vhd {0 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/vu_meter.vhd
+} {} {}} vu_meter.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/vu_meter.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -298,10 +328,8 @@ Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  
 -- Loading package NUMERIC_STD
 -- Compiling entity vu_meter
 -- Compiling architecture rtl of vu_meter
-** Error: D:/FPGA/DE2_sound/vu_meter/vu_meter.vhd(491): (vcom-1436) Actual expression (infix expression) of formal "i_data" is not globally static.
-** Error: D:/FPGA/DE2_sound/vu_meter/vu_meter.vhd(524): VHDL Compiler exiting
 
-} {11.0 13.0} {}} UART_TX.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/UART_TX.vhd
+} {} {}} UART_TX.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/FPGA/DE2_sound/vu_meter/UART_TX.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO

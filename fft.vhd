@@ -4,6 +4,9 @@ use IEEE.MATH_REAL.ALL;
 use ieee.numeric_std.all;
 
 
+
+
+
 --entity declaration
 entity fft is
 generic (
