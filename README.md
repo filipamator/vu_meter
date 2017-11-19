@@ -21,4 +21,10 @@ Comments on hardware:
 - Pressing KEY(1) will dump data over on-board UART
 
 
-<b> HTML TEST </b>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJIZBhBNofI" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xRw6NkzDQ_o" frameborder="0" gesture="media" allowfullscreen></iframe>
